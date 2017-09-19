@@ -1,5 +1,45 @@
 body {
-    background: #1e2124;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 600;
+    background-color: lightblue;
+    /* background-color: white; */
+    color: coral;
+}
+header {
+    background-color: lightblue;
+}
+html, body {
+    font-family: 'Asap Condensed', sans-serif;
+    height: 100%;
+    margin: 0;
+}
+div.header {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+.clicavel {
+    cursor: pointer;
+}
+img.profile {
+    width: 80px;
+    height: 80px;
+    
+}
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -50px;
+}
+footer, .push {
+    text-align: center;
+    height: 60px;
+}
+table, tr, td {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+td, tr {
+    width: 7%;
+    background-color: lightblue;
+    margin: 0;
 }
