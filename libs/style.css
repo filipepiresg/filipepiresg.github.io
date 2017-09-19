@@ -19,11 +19,6 @@ div.header {
 .clicavel {
     cursor: pointer;
 }
-img.profile {
-    width: 80px;
-    height: 80px;
-    
-}
 .wrapper {
     min-height: 100%;
     margin-bottom: -50px;
