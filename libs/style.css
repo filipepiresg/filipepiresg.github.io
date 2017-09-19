@@ -38,3 +38,7 @@ td, tr {
     background-color: lightblue;
     margin: 0;
 }
+div#content {
+    color: black;
+    text-align: center;
+}
