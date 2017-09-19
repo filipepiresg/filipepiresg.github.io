@@ -2,19 +2,16 @@ body {
     background-color: lightblue;
     font-size: 28px;
     color: coral;
+    text-align: center;
 }
 header {
     background-color: lightblue;
+    /* text-align: center; */
 }
 html, body {
     font-family: 'Asap Condensed', sans-serif;
     height: 100%;
     margin: 0;
-}
-div.header {
-    text-align: center;
-    font-size: 28px;
-    margin-bottom: 10px;
 }
 .clicavel {
     cursor: pointer;
@@ -27,18 +24,31 @@ footer, .push {
     text-align: center;
     height: 60px;
 }
-table, tr, td {
+ table,td { 
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    
 }
-td, tr {
-    width: 7%;
-    background-color: lightblue;
+td {
+    width: 40%;
+}
+div#container {
+    color: black;
+    font-size: 20px;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
     margin: 0;
 }
-div#content {
+#mail {
+    font-size: 15px;
     color: black;
-    text-align: center;
+}
+#icon {
+    width: 50px;
+    height: 50px;
+}
+h3 {
+    margin-bottom: 0;
 }
