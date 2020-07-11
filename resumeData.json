@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Filipe Pires",
+    "occupation": "Mobile Developer",
+    "description": "I am proactive, communicative and humorous. I like new challenges and always be learning more",
+    "image": "profilepic.jpg",
+    "bio": "I have been working with application development for almost 2 years, I use react native, using redux and redux-saga to make requests to API's. For styling, I usually use styled-components and the appcenter (or fastlane) for the application's CI/CD. I also have some experience with Node and non-relational databases like mongodb",
+    "contactmessage": "Contact me",
+    "email": "filipepiresg@gmail.com",
+    "phone": "+55 (83) 98729-3710",
+    "address": {
+      "street": "90 Aderaldo Vasconcelos Diniz St.",
+      "city": "Campina Grande",
+      "state": "Paraíba",
+      "zip": "58415-605"
+    },
+    "website": "https://filipepiresg.github.io/",
+    "resumedownload": "./files/curriculum.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/liipepires/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/filipe-pires-guimaraes-3943a0a7/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/filipepiresg",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Working for almost 2 years with mobile application development",
+    "education": [
+      {
+        "school": "Universidade Federal de Campina Grande - UFCG",
+        "degree": "Computer Science",
+        "graduated": "2021"
+      },
+      {
+        "school": "Instituto Federal de Campina Grande - IFPB",
+        "degree": "Maintenance technician and computer support",
+        "graduated": "2010"
+      }
+    ],
+    "work": [
+      {
+        "company": "Mundo DevOps",
+        "title": "Junior Mobile Developer",
+        "years": "April 2019 - Current",
+        "description": "Develop solutions for Android/iOS platforms, send apps to stores (App Store and Google Play) and evaluate design"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactNative",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "60%"
+      },
+      {
+        "name": "Node",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "Docker",
+        "level": "45%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Space Career",
+        "category": "Application to assist the USP University recruitment fair",
+        "image": "space_career.png"
+      },
+      {
+        "title": "Multa Justa",
+        "category": "Application for traffic ticket defenses",
+        "image": "multa-justa.png",
+        "url": "https://play.google.com/store/apps/details?id=br.com.aulas.multajusta"
+      },
+      {
+        "title": "Pmobo",
+        "category": "Application to integrate the main project management platforms, with Trello and Microsoft Project Online",
+        "image": "pmobo.jpg",
+        "url": "https://play.google.com/store/apps/details?id=br.com.mundodevops.pmobo"
+      },
+      {
+        "title": "Dnight",
+        "category": "Event mapping application",
+        "image": "dnight.png",
+        "url": "https://play.google.com/store/apps/details?id=br.com.mundodevops.dnight"
+      },
+      {
+        "title": "Dout Saúde",
+        "category": "Application for scheduling appointments and exams, and marketplace for purchasing medicines",
+        "image": "dout.png",
+        "url": "https://play.google.com/store/apps/details?id=br.com.doutatendimentomedico"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
