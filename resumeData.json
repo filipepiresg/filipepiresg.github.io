@@ -50,9 +50,15 @@
     ],
     "work": [
       {
+        "company": "WebHoldingUSA",
+        "title": "Developer",
+        "years": "August 2020 - Current",
+        "description": "Develop solutions for Android/iOS platforms, send apps to stores (App Store and Google Play) and evaluate design. Develop solutions in Node.JS"
+      },
+      {
         "company": "Mundo DevOps",
         "title": "Junior Mobile Developer",
-        "years": "April 2019 - Current",
+        "years": "April 2019 - September 2020",
         "description": "Develop solutions for Android/iOS platforms, send apps to stores (App Store and Google Play) and evaluate design"
       }
     ],
