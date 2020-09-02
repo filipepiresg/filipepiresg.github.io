@@ -117,6 +117,12 @@
         "url": "https://play.google.com/store/apps/details?id=br.com.mundodevops.dnight"
       },
       {
+        "title": "Telemedicina Arquimed",
+        "category": "Application for scheduling appointments and exams",
+        "image": "telemedicina.png",
+        "url": "https://play.google.com/store/apps/details?id=br.com.telemedicina.arquimed&hl=pt_BR"
+      },
+      {
         "title": "Dout Saúde",
         "category": "Application for scheduling appointments and exams, and marketplace for purchasing medicines",
         "image": "dout.png",
