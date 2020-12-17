@@ -50,9 +50,15 @@
     ],
     "work": [
       {
+        "company": "Post2b",
+        "title": "Full Stack Developer",
+        "years": "October 2020 - Current",
+        "description": "Develop solutions and maintain Api in Ruby on Rails, Web in ReactJS and Android / iOS; Evaluate design"
+      },
+      {
         "company": "WebHoldingUSA",
         "title": "Developer",
-        "years": "August 2020 - Current",
+        "years": "August 2020 - October 2020",
         "description": "Develop solutions for Android/iOS platforms, send apps to stores (App Store and Google Play) and evaluate design. Develop solutions in Node.JS"
       },
       {
@@ -64,7 +70,7 @@
     ],
     "skills": [
       {
-        "name": "ReactNative",
+        "name": "React Native",
         "level": "80%"
       },
       {
@@ -73,7 +79,7 @@
       },
       {
         "name": "ReactJs",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "CSS",
@@ -92,8 +98,12 @@
         "level": "50%"
       },
       {
+        "name": "Ruby on Rails",
+        "level": "40%"
+      },
+      {
         "name": "Docker",
-        "level": "45%"
+        "level": "60%"
       }
     ]
   },
