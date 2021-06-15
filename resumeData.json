@@ -50,9 +50,15 @@
     ],
     "work": [
       {
+        "company": "ACT Digital",
+        "title": "System Analyst",
+        "years": "April 2021 - Current",
+        "description": "Develop solutions in ReactJS"
+      },
+      {
         "company": "Post2b",
         "title": "Full Stack Developer",
-        "years": "October 2020 - Current",
+        "years": "October 2020 - April 2021",
         "description": "Develop solutions and maintain Api in Ruby on Rails, Web in ReactJS and Android / iOS; Evaluate design"
       },
       {
